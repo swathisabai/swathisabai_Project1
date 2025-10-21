@@ -1,2 +1,22 @@
-# swathisabai_Project1
-Company Projects
+# CN Datahub Processing
+
+## Overview
+This project processes Canadian National Railway data from multiple regional source systems using Spark and Kafka.
+
+## Technologies
+- Apache Kafka
+- Apache Spark (Scala)
+- Databricks
+- PostgreSQL
+
+## Responsibilities
+- Developed Spark Structured Streaming jobs to ingest data from Kafka.
+- Built Spark-Scala DataFrame pipelines for train-related data transformations.
+- Conducted QA and defect analysis post-deployment in higher environments.
+
+## Domain
+Canadian National Railways
+
+## Role
+Senior Data Engineer & Analyst at Mphasis Ltd
+
