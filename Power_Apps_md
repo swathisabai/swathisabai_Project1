@@ -1,20 +1,21 @@
-# Internal Tools - Microsoft Power Apps
+# testCN Datahub Processing
 
 ## Overview
-Custom-built internal applications for Data Engineers Hub using Microsoft Power Platform.
+This project processes Canadian National Railway data from multiple regional source systems using Spark and Kafka.
 
 ## Technologies
-- Microsoft Power Apps
-- SharePoint
-- Excel Power Query
+- Apache Kafka
+- Apache Spark (Scala)
+- Databricks
+- PostgreSQL
 
 ## Responsibilities
-- Designed and developed apps based on internal requirements.
-- Managed enhancements and defect fixes.
-- Handled large datasets stored in SharePoint.
+- Developed Spark Structured Streaming jobs to ingest data from Kafka.
+- Built Spark-Scala DataFrame pipelines for train-related data transformations.
+- Conducted QA and defect analysis post-deployment in higher environments.
 
-## Duration
-July 2021 – March 2023
+## Domain
+Canadian National Railways
 
 ## Role
-App Developer at Mphasis Ltd
+Senior Data Engineer & Analyst at Mphasis Ltd
